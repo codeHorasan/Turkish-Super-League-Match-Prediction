@@ -1,5 +1,5 @@
 # Turkish-Super-League-Match-Prediction
-## Machine Learning Model that predicts the results of football matches of Turkish Super League
+Machine Learning Model that predicts the results of football matches of Turkish Super League
 
 ## Predictions
 
